@@ -1,0 +1,7 @@
+D:\test\other\Queue\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe.config
+D:\test\other\Queue\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.exe
+D:\test\other\Queue\ConAppQueue\ConAppQueue\bin\Debug\ConAppQueue.pdb
+D:\test\other\Queue\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csprojAssemblyReference.cache
+D:\test\other\Queue\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.csproj.CoreCompileInputs.cache
+D:\test\other\Queue\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.exe
+D:\test\other\Queue\ConAppQueue\ConAppQueue\obj\Debug\ConAppQueue.pdb
